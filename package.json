@@ -1,0 +1,29 @@
+{
+    "name": "sorcia",
+    "homepage": "https://github.com/khrome/sorcia",
+    "version": "0.0.1",
+    "main": "sorcia.js",
+    "description": "A Text Browser",
+    "keywords": [
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/sorcia/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/khrome/sorcia.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
